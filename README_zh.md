@@ -11,43 +11,51 @@
 
 在几分钟内部署您的下一个全栈应用，全球访问无阻。基于 Cloudflare 领先的云托管技术，始终保持技术领先优势。
 
-## ⭐ 功能
+## ⭐ 功能特色
 
-- **Easy to Start**: Seamlessly connect with your Cloudflare Token and start instantly.
-- **Global Access**: Global reach with 95% of requests served under 50ms.
-- **Enterprise-grade Reliability**: 99.9% uptime guarantee backed by Cloudflare's global infrastructure.
-- **Useful Template Library**: Beautifully Designed, Multi-Framework Template Library.
-- **Get More for Less**: Start for free, scale effortlessly, and enjoy transparent pricing.
-- **Collaboration for Success**: Unlock seamless collaboration and streamlined management for all your Cloudflare accounts.
-- **We Put the User First**: Designed for simplicity, engineered for integration, built for an exceptional experience.
-- **Always-on Support**: Get 24/7 support, powered by AI and backed by experts.
+- **快速启动，即刻体验**
+  - 只需要关联上 Cloudflare Token，便可快速开始。
+- **边缘部署，全球访问**
+  - 在全球任意地点访问时间 95% 不超过 50ms。
+- **企业级可靠**
+  - 依托 Cloudflare 全球基础设施，提供 99.9% 的运行时间保证。
+- **实用的模板库**
+  - UI 精美、多框架支持的模板库。
+- **超值之选**
+  - 零成本开启，随需而变，价格透明看得见。
+- **团队协作，成就无限可能**
+  - 我们提供多 Cloudflare 账号管理的能力。多工作空间、多成员，合作共赢。
+- **用户体验至上**
+  - 简约的设计，全面的集成。致力于打造卓越的体验。
+- **全天候支持**
+  - 由 AI 助手提供支持并由我们的专家团队提供支持的 7x24 小时服务。
 
-## 🚀 Getting Started
+## 🚀 快速开始
 
-- **Official Website**: https://oneclick.sh/
-- **Documentation**: https://oneclick.sh/docs
-- **Pricing**: https://oneclick.sh/pricing
-- **Blog**: https://oneclick.sh/blog
-- **Changelog**: https://oneclick.sh/changelog
+- **官方网站**: https://oneclick.sh/
+- **文档**: https://oneclick.sh/docs
+- **定价**: https://oneclick.sh/pricing
+- **博客**: https://oneclick.sh/blog
+- **更新日志**: https://oneclick.sh/changelog
 
-### 📺 See How to work with OneClick
+### 📺 了解如何使用 OneClick
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/xm0NYxuOK9I/0.jpg)](https://youtu.be/xm0NYxuOK9I?si=jJHMYWhTgR-xrL0o "How to work with OneClick")
+[![了解如何使用 OneClick](https://i2.hdslb.com/bfs/archive/3e421903d7b4936dd75f3f5735fc8e6f661d4f96.jpg)](https://www.bilibili.com/video/BV1KyNie7EKC/?share_source=copy_web&vd_source=0fa2383deadd9e3d4464c3753ac36673 "了解如何使用 OneClick")
 
-### ⚡ Beautiful Templates
+### ⚡ 精美的模板
 
-| Template                | Framework | Example                                                                    | Action                                         |
-|-------------------------|-----------|----------------------------------------------------------------------------|------------------------------------------------|
-| Excalidraw              | React     | ![Excalidraw](https://oneclick.sh/excalidraw.png)                          | [Use This Template](https://oneclick.sh/login) |
-| My Pull Requests        | Vue       | ![My Pull Requests](https://oneclick.sh/my-pull-requests.png)              | [Use This Template](https://oneclick.sh/login) |
-| flux-ai-image-generator | Vue       | ![flux-ai-image-generator](https://oneclick.sh/flux-ai-generate-image.png) | [Use This Template](https://oneclick.sh/login) |
-| Resume                  | React     | ![Resume](https://oneclick.sh/resume.png)                                  | [Use This Template](https://oneclick.sh/login) |
-| Web Image Extractor     | Remix     | ![Web Image Extractor](https://oneclick.sh/extract.png)                    | [Use This Template](https://oneclick.sh/login) |
-| PenX                    | NextJS    | ![PenX](https://oneclick.sh/penx.png)                                      | [Use This Template](https://oneclick.sh/login) |
+| 模板                     | 框架     | 示例                                                                         | 操作                                        |
+|-------------------------|--------|----------------------------------------------------------------------------|-------------------------------------------|
+| Excalidraw              | React  | ![Excalidraw](https://oneclick.sh/excalidraw.png)                          | [使用模板](https://oneclick.sh/login)         |
+| My Pull Requests        | Vue    | ![My Pull Requests](https://oneclick.sh/my-pull-requests.png)              | [使用模板](https://oneclick.sh/login) |
+| flux-ai-image-generator | Vue    | ![flux-ai-image-generator](https://oneclick.sh/flux-ai-generate-image.png) | [使用模板](https://oneclick.sh/login) |
+| Resume                  | React  | ![Resume](https://oneclick.sh/resume.png)                                  | [使用模板](https://oneclick.sh/login) |
+| Web Image Extractor     | Remix  | ![Web Image Extractor](https://oneclick.sh/extract.png)                    | [使用模板](https://oneclick.sh/login) |
+| PenX                    | NextJS | ![PenX](https://oneclick.sh/penx.png)                                      | [使用模板](https://oneclick.sh/login) |
 
-Submit Your Templates to Developers: contact@oneclick.sh
+提交您的模板供开发者使用：[contact@oneclick.sh](mailto:contact@oneclick.sh)
 
-## Contact Us
+## 联系我们
 
 - **X (Twitter)**
     - Nextify2024: https://x.com/nextify2024
@@ -56,7 +64,7 @@ Submit Your Templates to Developers: contact@oneclick.sh
     - Nextify: https://www.linkedin.com/company/nextify-ltd/
     - OneClick: https://www.linkedin.com/showcase/oneclick-sh
 - **Discord**: https://discord.gg/29PqFHUVkz
-- **Email**: contact@oneclick.sh
+- **Email**: [contact@oneclick.sh](mailto:contact@oneclick.sh)
 
 
 <!-- Badges and links -->
