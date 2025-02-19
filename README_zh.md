@@ -7,11 +7,11 @@
 [![X][x-badge]][x-badge-link]
 [![Discord][discord-badge]][discord-badge-link]
 
-Ship your next apps to the world with ease.
+毫不费力地将您的下一款应用发布到全世界。
 
-OneClick provides a streamlined deployment experience, allowing you to deploy your applications to Cloudflare's edge network effortlessly.
+在几分钟内部署您的下一个全栈应用，全球访问无阻。基于 Cloudflare 领先的云托管技术，始终保持技术领先优势。
 
-## ⭐ Features
+## ⭐ 功能
 
 - **Easy to Start**: Seamlessly connect with your Cloudflare Token and start instantly.
 - **Global Access**: Global reach with 95% of requests served under 50ms.
@@ -50,11 +50,11 @@ Submit Your Templates to Developers: contact@oneclick.sh
 ## Contact Us
 
 - **X (Twitter)**
-  - Nextify2024: https://x.com/nextify2024
-  - BingxunYao: https://x.com/BingxunYao
+    - Nextify2024: https://x.com/nextify2024
+    - BingxunYao: https://x.com/BingxunYao
 - **LinkedIn**:
-  - Nextify: https://www.linkedin.com/company/nextify-ltd/
-  - OneClick: https://www.linkedin.com/showcase/oneclick-sh
+    - Nextify: https://www.linkedin.com/company/nextify-ltd/
+    - OneClick: https://www.linkedin.com/showcase/oneclick-sh
 - **Discord**: https://discord.gg/29PqFHUVkz
 - **Email**: contact@oneclick.sh
 
